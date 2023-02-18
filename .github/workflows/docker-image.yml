@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: creedscode/discord-display-timezones:latest
+          tags: creedscode/github_issues2_discord_webhook:latest
